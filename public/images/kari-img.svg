@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_1" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" width="329.74" height="300" viewBox="0 0 329.74 300">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: .25em;
+      }
+
+      .cls-2 {
+        font-family: KozGoPr6N-Regular-90ms-RKSJ-H, 'Kozuka Gothic Pr6N';
+        font-size: 12px;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <rect x="72.74" width="257" height="300"/>
+  <text/>
+  <text class="cls-2" transform="translate(182.87 153.25)"><tspan class="cls-1" x="0" y="0">仮</tspan><tspan x="15" y="0">IMG</tspan></text>
+</svg>
