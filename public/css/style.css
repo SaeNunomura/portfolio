@@ -45,13 +45,13 @@
 	color: #ff8c00;
 }
 
-#skill {
+#profile {
 	margin-left: 440px;
-	padding-top: 100px;
+	padding: 40px 0 100px;
 	background: #bfbfbf;
 }
 
-#profile {
+#skill {
 	margin-left: 440px;
 	padding: 40px 0 100px;
 	background: #bfbfbf;
@@ -151,6 +151,7 @@
 }
 
 .explanation {
+	margin: 10px 0 10px 10px;
 	text-align: left;
 }
 
