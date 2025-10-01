@@ -5,6 +5,10 @@
 	padding: 0;
 }
 
+html {
+	scroll-behavior: smooth;
+}
+
 .Header {
 	width: 440px;
 	height: 100vh;
